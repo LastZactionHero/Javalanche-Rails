@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  score: 1
+  name: MyString
+  comment: MyString
+  date: 2010-10-15
+
+two:
+  score: 1
+  name: MyString
+  comment: MyString
+  date: 2010-10-15
